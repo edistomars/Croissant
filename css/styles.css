@@ -1,6 +1,16 @@
 body {
   background: #f6e4ad;
+  margin-top: 25px;
 }
-.links {
-  text-decoration: none;
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+}
+
+.navigation-links {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
 }
