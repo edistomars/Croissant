@@ -2,6 +2,10 @@ body {
   background: #f6e4ad;
   margin-top: 25px;
 }
+h1 {
+  font-size: 96px;
+  color: #cd4545;
+}
 h1,
 h2,
 h3,
@@ -11,6 +15,10 @@ p {
 
 .navigation-links {
   display: flex;
-  margin-top: 40px;
-  justify-content: center;
+  margin: 50px;
+  justify-content: space-evenly;
+}
+
+.navigation-links a {
+  color: #f16821;
 }
